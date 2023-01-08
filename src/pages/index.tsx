@@ -47,11 +47,6 @@ const Home: NextPage = () => {
           &ldquo;Thank you for choosing Oenophile. We look forward to helping
           you discover your new favorite wine!&rdquo;
         </p>
-        <p className="text-end font-light text-gray-600">
-          Cheers,
-          <br />
-          The Oenophile Team
-        </p>
       </div>
     </Layout>
   );
